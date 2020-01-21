@@ -1,6 +1,8 @@
 # FLASK-OCR
 Demonstrating Flask to create a simple Web-API which upon receiving a particular image produces as output OCR of the image
 
+blog link:
+
 Most of the time the real use of the Machine Learning code lies at the heart of an application which integrates the ML code to becomes a smart application.
 
 “Consider the following situation:
@@ -9,8 +11,6 @@ But your friend found out that, you have coded your model in Python while your f
 Fortunately enough, you have the power of APIs. And the above situation is one of the many where the need of turning your machine learning models into APIs is extremely important.” - https://www.datacamp.com/community/tutorials/machine-learning-models-api-python
 
 The below code demonstrates how you can use Flask - A web services' framework in Python, to wrap a machine learning Python code into an API.
-
-Github link:
 
 Few things to note:
 
