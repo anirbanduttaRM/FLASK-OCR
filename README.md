@@ -1,7 +1,7 @@
 # FLASK-OCR
 Demonstrating Flask to create a simple Web-API which upon receiving a particular image produces as output OCR of the image
 
-blog link:
+blog link:https://www.anirbandutta.com/post/demonstrating-flask-to-create-a-simple-web-api-ocr-program
 
 Most of the time the real use of the Machine Learning code lies at the heart of an application which integrates the ML code to becomes a smart application.
 
